@@ -1,0 +1,26 @@
+{
+    "projects": [
+        {
+            "id": "1",
+            "projectName": "Development of Enhanced Analytics Platform",
+            "desc": "Build an advanced analytics dashboard integrating real-time data from multiple sources.",
+            "assignedDate": "15, Jun 2024",
+            "dueDate": "30, Aug 2024",
+            "status": 65,
+            "priority": "High",
+            "totalTask": 22,
+            "completedTask": 18
+        },
+        {
+            "id": "12",
+            "projectName": "Development of Enhanced Analytics Platform",
+            "desc": "Build an advanced analytics dashboard integrating real-time data from multiple sources.",
+            "assignedDate": "15, Jun 2024",
+            "dueDate": "30, Aug 2024",
+            "status": 65,
+            "priority": "High",
+            "totalTask": 22,
+            "completedTask": 18
+        }
+    ]
+}

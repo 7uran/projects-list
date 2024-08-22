@@ -7,6 +7,8 @@ export const getPriorityColor = (priority: string) => {
         case 'Low':
             return 'bg-green-500/10 text-green-500';
         default:
-            return 'bg-gray-200/10 text-gray-200';
+            return 'bg-gray-200 text-gray-500';
     }
 };
+
+
